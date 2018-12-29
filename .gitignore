@@ -1,0 +1,5 @@
+./chinese-poetry
+poet_generation_tensorflow.*
+dictionary.pkl
+checkpoint
+
